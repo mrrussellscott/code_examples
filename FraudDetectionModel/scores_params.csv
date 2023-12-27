@@ -1,0 +1,2 @@
+iteration,trial_value,params
+2023-12-27T21:48:20,0.05889014722536807,"{'iterations': 340, 'depth': 8, 'learning_rate': 0.036559266113795875, 'border_count': 114, 'l2_leaf_reg': 24, 'random_strength': 7.142267011262378, 'bagging_temperature': 0.831572555106135, 'scale_pos_weight': 107}"
